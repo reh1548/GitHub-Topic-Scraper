@@ -8,7 +8,6 @@ This project is a web scraping tool that allows you to gather information about 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -46,9 +45,6 @@ Modify the notebook to specify the topics you want to scrape. Add or remove topi
 Execute the notebook to start the scraping process.
 
 The extracted repository data will be saved in files such as output.html, page_contents.json, and repositories.xlsx, depending on the chosen output format.
-
-Contributing
-Contributions to the GitHub Topic Scraper project are welcome! If you encounter any issues, have suggestions, or want to add new features, feel free to open an issue or submit a pull request. Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
 License
 The GitHub Topic Scraper project is licensed under the MIT License.
